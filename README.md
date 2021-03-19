@@ -15,6 +15,6 @@ def resultado():  #haciendo click en igual de la calculadora.
 #EJEMPLO    
 
 resultado=0
-resultado=str(eval(2+5*10-12+2**3
+resultado=str(eval(2+5*10-12+2**3)
 
 print(resultado)
